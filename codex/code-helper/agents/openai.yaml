@@ -1,0 +1,6 @@
+interface:
+  display_name: "CodeHelper"
+  short_description: "Fast student-code review with bounded verification"
+  default_prompt: "Use $code-helper to review this student code project with the quick profile."
+policy:
+  allow_implicit_invocation: false
